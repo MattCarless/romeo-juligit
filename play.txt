@@ -1,3 +1,5 @@
 SCENE 1
 
 MATT Do you think coding is fun?
+
+NAT Yes. 
