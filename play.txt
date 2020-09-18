@@ -6,7 +6,6 @@ NAT Yes.
 
 MATT This is worthy of Shakespeare 
 
-<<<<<<< HEAD
 SCENE 2 
-=======
->>>>>>> 71ffdc7d292a8a6792e88fae03fe82d779695653
+
+NAT Oh so worthy. Where shall we go hence?
